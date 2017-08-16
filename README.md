@@ -54,8 +54,8 @@
           <p>
           são usadas para abreviatura
           <p>
-          <abbr title="exemplo de abreviatura">
-           ABBR
+          <abbr title="abreviação">
+           AMC
           </abbr>
       </body>
 </html>
